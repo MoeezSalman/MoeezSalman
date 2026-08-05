@@ -28,8 +28,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=MoeezSalman&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MoeezSalman&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+  <img src="https://img.shields.io/github/followers/MoeezSalman?style=for-the-badge&color=39FF14&logo=github&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/stars/MoeezSalman?style=for-the-badge&color=39FF14&logo=github&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Profile%20Views&query=count&url=https://api.countapi.xyz/hit/MoeezSalman/profile-views&color=39FF14&labelColor=0d1117&logo=github" />
 </p>
 
 <p align="center">
@@ -38,11 +39,13 @@
 
 ---
 
-### 🏆 Trophies
+### 🏆 Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MoeezSalman&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://img.shields.io/badge/Pull%20Shark-x2-39FF14?style=for-the-badge&logo=github&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/YOLO-Achieved-39FF14?style=for-the-badge&logo=github&labelColor=0d1117" />
 </p>
+<p align="center"><sub>See all achievements on my <a href="https://github.com/MoeezSalman?tab=achievements">GitHub Achievements page</a></sub></p>
 
 ---
 
